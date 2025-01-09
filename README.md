@@ -1,4 +1,4 @@
-# Azure Policy Samples
+# Cobweb - Azure Policy Samples
 
 This repository contains the direct representation of built-in definitions published to Azure. For easy search of all built-in  with descriptions, see [Policy samples](https://docs.microsoft.com/azure/governance/policy/samples/) on docs.microsoft.com.
 
